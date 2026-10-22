@@ -24,3 +24,11 @@
     color: white;
     text-decoration: none;
 }
+.site-main {
+    padding: 40px 20px;
+    text-align: center;
+    min-height: 50vh;
+}
+.site-main h2 {
+    margin-bottom: 20px;
+}
