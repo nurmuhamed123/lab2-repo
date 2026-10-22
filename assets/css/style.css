@@ -8,3 +8,19 @@
     margin: 0;
     box-sizing: inherit;
 }
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+.site-header ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+.site-header a {
+    color: white;
+    text-decoration: none;
+}
