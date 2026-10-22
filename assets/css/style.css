@@ -32,3 +32,9 @@
 .site-main h2 {
     margin-bottom: 20px;
 }
+.site-footer {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 20px;
+}
